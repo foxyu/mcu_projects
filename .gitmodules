@@ -1,3 +1,6 @@
 [submodule "Libraries/CMSIS/Core/cmsis_core"]
 	path = Libraries/CMSIS/Core/cmsis_core
 	url = https://github.com/STMicroelectronics/cmsis_core.git
+[submodule "Libraries/CMSIS/STM/F4/cmsis_device_f4"]
+	path = Libraries/CMSIS/STM/F4/cmsis_device_f4
+	url = https://github.com/STMicroelectronics/cmsis_device_f4.git
