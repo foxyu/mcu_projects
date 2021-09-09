@@ -7,3 +7,6 @@
 [submodule "Libraries/Drivers/STM/F4/stm32f4xx_hal_driver"]
 	path = Libraries/Drivers/STM/F4/stm32f4xx_hal_driver
 	url = https://github.com/STMicroelectronics/stm32f4xx_hal_driver.git
+[submodule "Libraries/RTOS/FreeRTOS/CMSIS-FreeRTOS"]
+	path = Libraries/RTOS/FreeRTOS/CMSIS-FreeRTOS
+	url = https://github.com/ARM-software/CMSIS-FreeRTOS.git
